@@ -3,7 +3,8 @@ Super Strong Password Generator HTA
 
 
 This is my simple demo of how to make a super strong password generator.
-HTA Applications run on pretty much every version of Microsoft Windows.
+
+Note: HTA Applications run on pretty much every version of Microsoft Windows.
 
 This is verison 1.0 Beta, this is a basic working copy.
 This code is provided as is for educational puposes.
