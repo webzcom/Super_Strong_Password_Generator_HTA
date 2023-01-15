@@ -15,11 +15,17 @@ The strong passwords generated are between 19 and 23 characters long.
 
 The passwords contain random cobinations of numbers, upper and lowercase letters and special characters.
 
+To Run:
 
-There are two buttons:
+1. Copy HTA file to your Windows PC.
+2. Double Click HTA file.
+3. When Prompted, Allow application to run.
+
+Option buttons:
 
 1. Generate a list 10 randomly generated passwords
 2. Resize Window
 
 There may be future updates if I have time to work on it.
+
 
