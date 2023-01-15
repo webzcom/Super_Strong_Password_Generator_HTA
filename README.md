@@ -19,7 +19,8 @@ To Run:
 
 1. Copy HTA file to your Windows PC.
 2. Double Click HTA file.
-3. When Prompted, Allow application to run.
+3. When Prompted, allow application to run.
+4. Click Red X on Window to Close
 
 Option buttons:
 
