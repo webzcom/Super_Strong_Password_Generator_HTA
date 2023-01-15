@@ -18,7 +18,7 @@ The passwords contain random cobinations of numbers, upper and lowercase letters
 There are two buttons:
 
 1. Generate a list 10 randomly generated passwords
-2. Resize Window.
+2. Resize Window
 
 There may be future updates if I have time to work on it.
 
