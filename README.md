@@ -1,5 +1,7 @@
 # Super_Strong_Password_Generator_HTA
-Super Strong Password Generator HTA 
+Super Strong Password Generator HTA
+
+
 This is my simple demo of how to make a super strong password generator.
 HTA Applications run on pretty much every version of Microsoft Windows.
 
